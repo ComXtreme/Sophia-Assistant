@@ -1,4 +1,3 @@
-```python
 import random
 
 responses = [
@@ -16,4 +15,3 @@ responses = [
 
 def ask_eight_ball():
     return random.choice(responses)
-```
