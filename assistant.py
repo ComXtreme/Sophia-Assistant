@@ -1,4 +1,3 @@
-```python
 import random
 from .jokes import get_random_joke
 from .magic_eight_ball import ask_eight_ball
@@ -46,4 +45,3 @@ def ask_customization():
             print("Invalid input, keeping the default gender.")
 
     return Assistant(name, gender)
-```
