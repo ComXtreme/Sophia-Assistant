@@ -1,4 +1,3 @@
-```python
 import random
 
 jokes = [
@@ -56,4 +55,3 @@ jokes = [
 
 def get_random_joke():
     return random.choice(jokes)
-```
