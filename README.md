@@ -1,5 +1,4 @@
-```markdown
-# Flask Assistant
+# Sophia Assistant
 
 A customizable virtual assistant built with Flask.
 
