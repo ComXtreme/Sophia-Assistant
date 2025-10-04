@@ -1,4 +1,3 @@
-```python
 def detect_emotion(user_input):
     positive_words = ["good", "great", "happy", "excited", "love"]
     negative_words = ["bad", "sad", "angry", "hate", "tired"]
@@ -9,4 +8,3 @@ def detect_emotion(user_input):
         return "negative"
     else:
         return "neutral"
-```
