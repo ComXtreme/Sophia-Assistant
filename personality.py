@@ -1,4 +1,3 @@
-```python
 class Personalities:
     FRIENDLY_AND_CASUAL = "Hey there! I'm here to help you out. What can I do for you today?"
     PROFESSIONAL_AND_FORMAL = "Good afternoon. How may I assist you with your inquiry today?"
@@ -27,4 +26,3 @@ personality_map = {
     "storyteller": Personalities.STORYTELLER,
     "flirty_sexy_and_spontaneous": Personalities.FLIRTY_SEXY_AND_SPONTANEOUS,
 }
-```
