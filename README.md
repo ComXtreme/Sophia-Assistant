@@ -15,7 +15,7 @@ A customizable virtual assistant built with Flask.
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone <Sophia-Assistant>
    cd flask_assistant
    ```
 
